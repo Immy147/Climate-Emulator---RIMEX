@@ -85,7 +85,6 @@ Variables include:
 - Cooling Degree Days
 - Heating Degree Days
 - Crop Yield
-- Water Availability
 - Additional climate impact indicators
 
 ---
